@@ -1,0 +1,35 @@
+---
+title: |
+  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+    <img src="637382017185780333+290935.avif" style="height:70px;">
+    <span>Assignment 6: GA4 → Looker Studio Dashboard</span>
+  </div>
+author: "Group 5: Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, & Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Looker Studio dashboard link or dashboard screenshots
+
+# List of data sources
+
+# Explanation of KPIs
+
+# Short interpretation of dashboard insights
+
+# Recommended actions based on the dashboard
+
+# Appendix
+
+-   [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
+
+-   GitHub Page
