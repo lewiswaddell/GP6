@@ -20,11 +20,17 @@ execute:
 
 # Looker Studio Dashboard
 
--   Dashboard link
+- Dashboard link
+
+  <https://datastudio.google.com/reporting/15138c91-e450-498f-b0ee-00d998b28f20>
+
+- Screenshot:
+
+  ![](images/clipboard-714875656.png)
 
 # Data source
 
--   [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
+- [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
 
 # Explanation of KPIs
 
@@ -64,6 +70,6 @@ The dashboard will focus on seven KPIs that connect directly to the goals of the
 
 # Appendix
 
--   [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
+- [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
 
--   [GitHub Page](https://lewiswaddell.github.io/GP6/)
+- [GitHub Page](https://lewiswaddell.github.io/GP6/)
