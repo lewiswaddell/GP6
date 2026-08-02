@@ -32,4 +32,4 @@ execute:
 
 -   [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
 
--   GitHub Page
+-   [GitHub Page](https://lewiswaddell.github.io/GP6/)
