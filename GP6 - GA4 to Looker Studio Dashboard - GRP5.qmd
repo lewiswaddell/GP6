@@ -18,15 +18,45 @@ execute:
   freeze: auto
 ---
 
-# Looker Studio dashboard link or dashboard screenshots
+# Looker Studio Dashboard
 
 -   Dashboard link
 
-# List of data sources
+# Data source
 
 -   [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
 
 # Explanation of KPIs
+
+The dashboard will focus on seven KPIs that connect directly to the goals of the *Fresh from Our Farm to Your Campus* campaign.
+
+### Users
+
+`Users` represent the number of people who visit the CPP Farm Store website during the campaign. This KPI will help determine whether Google Search, Google Shopping, social media, email, and campus promotions are successfully increasing awareness of the Farm Store.
+
+### Product Page Views
+
+`Product page views` measure how often customers view specific products on the Shopify website. This will help identify which products generate the most interest, particularly the CPP Signature Gift Box, Bronco Gift Basket, seasonal produce, and specialty foods.
+
+### Add-to-Cart Events
+
+`Add-to-cart events` measure how many customers place a product in their online shopping cart. This represents stronger purchase interest than simply viewing a product and can help identify products customers seriously consider buying.
+
+### Purchases
+
+`Purchases` represent completed simulated ecommerce orders. This KPI will show whether the campaign and Shopify website successfully turn customer interest into actual sales.
+
+### Conversion Rate
+
+`Conversion rate` measures how effectively website visits result in completed purchases. It will help the Farm Store determine whether customers can easily move from product discovery through checkout or whether improvements to the website and ordering process are needed.
+
+### Store Pickup Orders
+
+`Store pickup orders` measure the number of customers who complete an online order and select in-store pickup. This is especially important because the campaign is designed to connect online product discovery with visits to the physical CPP Farm Store.
+
+### Revenue
+
+`Revenue` measures the total simulated sales generated during the campaign. It will help determine which products and marketing channels contribute the most financial value and whether the campaign supports the Farm Store’s ecommerce goals.
 
 # Short interpretation of dashboard insights
 
