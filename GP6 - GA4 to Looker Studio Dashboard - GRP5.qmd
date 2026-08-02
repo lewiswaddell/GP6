@@ -20,7 +20,11 @@ execute:
 
 # Looker Studio dashboard link or dashboard screenshots
 
+-   Dashboard link
+
 # List of data sources
+
+-   [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
 
 # Explanation of KPIs
 
