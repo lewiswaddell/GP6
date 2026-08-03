@@ -20,17 +20,17 @@ execute:
 
 # Looker Studio Dashboard
 
-- Dashboard link
+-   Dashboard link
 
-  <https://datastudio.google.com/reporting/15138c91-e450-498f-b0ee-00d998b28f20>
+    <https://datastudio.google.com/reporting/15138c91-e450-498f-b0ee-00d998b28f20>
 
-- Screenshot:
+-   Screenshot:
 
-  ![](images/clipboard-714875656.png)
+    ![](images/clipboard-714875656.png)
 
 # Data source
 
-- [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
+-   [Simulated Campaign Performance Data Source](https://docs.google.com/spreadsheets/d/1VGpNvBcBvh3cdmXxKpXOL_6eN2AIgGyc39b_xcC3XsE/edit?usp=sharing)
 
 # Explanation of KPIs
 
@@ -66,10 +66,30 @@ The dashboard will focus on seven KPIs that connect directly to the goals of the
 
 # Short interpretation of dashboard insights
 
+CPP Farm Store’s simulated campaign generated 36,185 users, 39,334 sessions, and 44,002 campaign clicks. These activities resulted in 2,645 purchases and \$47,938.51 in revenue. The campaign achieved a 6.72% conversion rate, an average order value of \$18.12, and a return on advertising spend of 26.63.
+
+Email was the strongest acquisition channel based on users, sessions, and campaign clicks. Instagram and Google Search formed the second tier of acquisition channels, while Facebook and Google Shopping generated lower traffic volumes.
+
+CPP Signature Gift Box was the leading product, generating \$21,095.78 in revenue from 422 purchases. Bronco Gift Basket ranked second with \$14,695.80 from 420 purchases. Together, these two products produced approximately 74.66% of total revenue, showing that gift oriented products were the campaign’s main revenue drivers.
+
+Across the product catalog, 32,115 product views produced 5,341 add to cart actions and 2,645 purchases. Approximately 16.63% of product views resulted in an add to cart action, while 49.52% of add to cart actions resulted in a purchase. The largest opportunity therefore occurs between viewing a product and adding it to the shopping cart.
+
 # Recommended actions based on the dashboard
+
+1.  Continue using email as a major acquisition and retention channel, while comparing its revenue and conversion rate with paid channels before reallocating campaign spending.
+
+2.  Feature CPP Signature Gift Box and Bronco Gift Basket prominently in seasonal promotions because these products generated nearly three quarters of total simulated revenue.
+
+3.  Improve product pages to address the drop between product views and add to cart actions. Recommended improvements include stronger product photography, clearer benefits, visible availability information, customer reviews, and more prominent add to cart buttons.
+
+4.  Introduce cross selling recommendations that encourage customers purchasing gift boxes or baskets to add lower priced produce and specialty products. This could increase the current \$18.12 average order value.
+
+5.  Investigate the late October revenue increase by filtering the dashboard by campaign, campaign phase, channel, category, and device. Successful conditions associated with that increase could be repeated in future promotions.
+
+6.  Because the analysis uses simulated data, use actual GA4 and Shopify results to validate these recommendations before making real budget or merchandising decisions.
 
 # Appendix
 
-- [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
+-   [GitHub Repo](https://github.com/lewiswaddell/GP6.git)
 
-- [GitHub Page](https://lewiswaddell.github.io/GP6/)
+-   [GitHub Page](https://lewiswaddell.github.io/GP6/)
